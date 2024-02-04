@@ -20,5 +20,7 @@ public class JavaSystemProperties {
         log.info("url={}", url);
         log.info("username={}", username);
         log.info("password={}", password);
+
+        //edit configuration 에서 입력한 VM 옵션들이 출력된다 -Dusername=test1234 이런식으로 -D를 붙여줘야함
     }
 }

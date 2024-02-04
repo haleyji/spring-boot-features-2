@@ -10,4 +10,5 @@ public class ExternalApplication {
         SpringApplication.run(ExternalApplication.class, args);
     }
 
+
 }
